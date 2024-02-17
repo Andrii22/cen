@@ -12,6 +12,6 @@ cat ~/.ssh/id_rsa.pub
 
 После этого вставьте его в настройках вашего аккаунта GitHub в разделе "SSH and GPG keys".
 Измените URL удаленного репозитория:
-git remote set-url origin git@github.com:GavelSt/cen.git
+git remote set-url origin git@github.com:Username/cen.git
 Попробуйте выполнить git push снова:
 git push origin main
