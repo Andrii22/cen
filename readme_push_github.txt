@@ -15,3 +15,8 @@ cat ~/.ssh/id_rsa.pub
 git remote set-url origin git@github.com:Username/cen.git
 Попробуйте выполнить git push снова:
 git push origin main
+
+-------------------------------------------------------------------------
+git remote add origin git@github.com:Andrii22/teacher_assistant.git
+git remote set-url origin git@github.com:Andrii22/teacher_assistant.git
+git clone git@github.com:Andrii22/teacher_assistant.git
